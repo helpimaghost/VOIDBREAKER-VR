@@ -8,7 +8,7 @@ This profile intends to bring immersive and kinetic 6DOF VR support to VOID/BREA
     A UEVR profile and .lua scripts. Use latest UEVR Nightly!
 
 
-The UEVR profile adds 6DOF motion controls to VOID/BREAKER, while the lua scripts extend functionality with features like a VR-oriented control scheme, gesture-based attacks, haptics, and other fixes and imrprovements.
+The UEVR profile adds 6DOF motion controls to VOID/BREAKER, while the lua scripts extend functionality with features like a VR-oriented control scheme, gesture-based attacks, haptics, and other fixes and improvements.
 
 UEVR Profile
 
