@@ -28,7 +28,7 @@ Installation
 1. Delete any previous VOIDBREAKER profiles from your UEVR global directory ( C:\Users\<username>\AppData\Roaming\UnrealVRMod )
 
 2. Import the profile via your preferred methodolgy. I personally use Rai Pal for UEVR injection and profile importing profiles:
-https://raicuparta.com/rai-pal/
+https://raicuparta.com/rai-pal/. Note that this UEVR profile is named for the Steam version of the game, you may have to rename the .zip file for other versions!
 
 3. Launch the game, ensure that display is set to Windowed, and Continue or Start a new game.
 
