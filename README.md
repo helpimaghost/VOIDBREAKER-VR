@@ -79,8 +79,9 @@ Known Issues
 
 IN-GAME SETTINGS
 
-    Disable camera shake
+    Set Display Mode to Windowed
     Set preferred DLSS mode, DLAA is a big help here if you can afford it
+    Disable camera shake
 
 
 PLANNED FEATURES AND OVERLY AMBITIOUS WISHLIST MIXED TOGETHER
