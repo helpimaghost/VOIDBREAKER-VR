@@ -1,7 +1,7 @@
 # VOIDBREAKER-VR
 A custom UEVR profile for VOID/BREAKER
 
-0.4 by help im a ghost
+0.5 by help im a ghost
 
 This profile intends to bring immersive and kinetic 6DOF VR support to VOID/BREAKER.
 
@@ -14,12 +14,13 @@ UEVR Profile
 
     6DOF motion controls- not 1:1 perfect currently
     Hides gloves and body meshes, and some Niagra effects
+    visual fixes
 
     
 Lua scripts with the following features:
 
-    Gesture-based combat functions for grenades, gravity tether, and melee attacks
-    VR-oriented control scheme
+    Gesture-based combat functions for grenades, gravity tether, weapon readying, and melee attacks
+    VR-oriented, gesture-based control scheme
     Haptic responses to combat actions
     Removed camera shake while sprinting
     
@@ -35,9 +36,9 @@ Installation
 
     Once the game has loaded, Inject UEVR- this will take a few seconds to complete.
 
-    Recenter the game when in your playspace- Standing is recommended!!
+    Recenter the game when in your playspace- Standing is highly recommended!!
 
-    If the Right Controller is not moving the crosshair, press and release Right Grip. If Right Stick movement is opening the map, try restarting the game.
+    If the Right Controller is not moving the crosshair, press and release Right Grip. If Right Stick movement is opening the map, try pressing different controls until it clears, or try restarting the game.
 
     
 Controls
@@ -54,15 +55,16 @@ General
 
 Interaction & Combat
 
+    Ready your weapon: Move your Right Controller up from your side to switch your aim mode to the controller. Lower your hand to switch back to the default HMD aiming
     Fire: RT
     Reload: B
     Grenade - 'Grenade' gesture: hold Right Grip, aim where you want to throw with HMD, flick/throw right hand while releaseing Right Grip
-    Gravity Tether - 'Telekinesis' gesture: move the Left Hand near head to Grab, flick/push Left Controller forward to Throw
-    Melee - 'Sword' gesture: move the Left Controller near your right hip to grab and hold your sword; Swing the Left Conttroller to perform the attack
+    Gravity Tether - 'Telekinesis' gesture: move the Left Hand near head to Grab the highlighted object targeted by your HMD, flick/push Left Controller forward to Throw
+    Melee - 'Sword' gesture: move the Left Controller near your right hip to grab and hold your sword; Swing the Left Conttroller outward to perform the attack. You can't perform other attacks while in melee!
     Main Menu: System
     Inventory - TO DO - currently D-pad
     Map - TO DO - currently D-pad
-    Ammo Quickswap - TO DO - currently D-pad
+    Ammo Quickswap - TO DO - currently D-pad left
 
     
 Known Issues
@@ -78,6 +80,7 @@ Known Issues
 IN-GAME SETTINGS
 
     Disable camera shake
+    Set preferred DLSS mode, DLAA is a big help here if you can afford it
 
 
 PLANNED FEATURES AND OVERLY AMBITIOUS WISHLIST MIXED TOGETHER
