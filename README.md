@@ -55,7 +55,7 @@ General
 
 Interaction & Combat
 
-**    Here's how this plays:
+    Here's how this plays:
     Yeah, it's a first person shooter, but your aim isn't actually tied to your gun most of the time, but the headset- bear with me for a minute.
 
     Think Psi-Ops Supersoldier- you have a gun, but that's not the only thing in your arsenal. You also have:
