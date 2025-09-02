@@ -12,9 +12,9 @@ The UEVR profile adds 6DOF motion controls to VOID/BREAKER, while the lua script
 
 UEVR Profile
 
-    6DOF motion controls- not 1:1 perfect currently
+    6DOF motion controls
     Hides gloves and body meshes, and some Niagra effects
-    visual fixes
+    visual fixes and enhancements
 
     
 Lua scripts with the following features:
