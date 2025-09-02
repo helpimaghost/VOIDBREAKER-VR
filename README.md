@@ -34,7 +34,7 @@ https://raicuparta.com/rai-pal/. Note that this UEVR profile is named for the St
 
 4. Once the game has loaded, Inject UEVR- this will take a few seconds to complete.
 
-5. Recenter the game when in your playspace- Standing is highly recommended!!
+5. Recenter the game when in your playspace (hold right Oculus/Universal Menu button)- This is now a much more active game, standing in adequate space to swing your arms around is highly recommended!!
 
 Note: If the Right Controller is not moving the crosshair, press and release Right Grip. If Right Stick movement is opening the map, try pressing different controls until it clears, or try restarting the game.
 
