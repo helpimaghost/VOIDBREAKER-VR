@@ -32,7 +32,7 @@ Installation
     Import the profile via your preferred methodolgy. I personally use Rai Pal for UEVR injection and profile importing profiles:
     https://raicuparta.com/rai-pal/
 
-    Launch the game, and Continue or Start a new game.
+    Launch the game, ensure that display is set to Windowed, and Continue or Start a new game.
 
     Once the game has loaded, Inject UEVR- this will take a few seconds to complete.
 
