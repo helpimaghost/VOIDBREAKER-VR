@@ -99,4 +99,4 @@ PLANNED FEATURES AND OVERLY AMBITIOUS WISHLIST MIXED TOGETHER
     BHaptics/Protube support
     
 
-Special thanks to Keyser-Soze, DJ, Ashok, Praydog, and the rest of the F2VR community
+Special thanks to Keyser-Soze, DJ, Pande4360, Ashok, Praydog, and the rest of the F2VR community
