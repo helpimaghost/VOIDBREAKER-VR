@@ -70,7 +70,7 @@ NOTE- Re-center your view if the crosshair feels off! It is not 100% perfect, bu
 
 Movement
 
-- Dash - Right Grip
+- Dash - Left Grip
 - Sprint - Left Stick Click (or set to Always Sprint in settings)
 - Jump - Right Stick Up
 - Crouch/Slide - Right Stick Down
