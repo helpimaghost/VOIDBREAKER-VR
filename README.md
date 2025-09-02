@@ -55,16 +55,28 @@ General
 
 Interaction & Combat
 
-    Ready your weapon: Move your Right Controller up from your side to switch your aim mode to the controller. Lower your hand to switch back to the default HMD aiming
-    Fire: RT
-    Reload: B
-    Grenade - 'Grenade' gesture: hold Right Grip, aim where you want to throw with HMD, flick/throw right hand while releaseing Right Grip
-    Gravity Tether - 'Telekinesis' gesture: move the Left Hand near head to Grab the highlighted object targeted by your HMD, flick/push Left Controller forward to Throw
-    Melee - 'Sword' gesture: move the Left Controller near your right hip to grab and hold your sword; Swing the Left Conttroller outward to perform the attack. You can't perform other attacks while in melee!
-    Main Menu: System
-    Inventory - TO DO - currently D-pad
-    Map - TO DO - currently D-pad
-    Ammo Quickswap - TO DO - currently D-pad left
+**    Here's how this plays:
+    Yeah, it's a first person shooter, but your aim isn't actually tied to your gun most of the time, but the headset- bear with me for a minute.
+
+    Think Psi-Ops Supersoldier- you have a gun, but that's not the only thing in your arsenal. You also have:
+
+    Gravity Tether- You look around your environment to find something throwable (and preferably explosive). Use your telekinetic mind powers to pick it up by swinging your left hand up near your head, and throw it by flinging     or pushing it away. No grenades or melee while you're carrying something!
+
+    Grenades- If you're NOT carrying something, grenades are good for AOE damage, and staggering enemies so that they drop health when killed. Throw a grenade by holding Right Grip, looking at where you want your grenade to go, and then throwing or flicking the Right Controller as you release. You can throw grenades across your body or over to your right as well, as long as you can look at where you want the grenade to go. You can sidearm grenades into alleys or hookshot then over your head if that's your style.
+
+    Sword- Sometimes things get too close and a sword is your best option. You'll find your sword sheathed on your right hip, and your can grab it by moving your left hand over to it, shinobi-style. Slash the sword out to perform a melee attack- I'm especially fond of slashing out of a Dash. You can also freely carry your sword around and slash later, but note that you can't use your other attacks as long as your sword is out.
+    NOTE- Re-center your view if this function doesn't feel right!
+
+    Gun- Yes, this is a first person shooter and you have a gun. Raise your right hand to ready your gun, which will dynamically switch your aiming mode to shoot at whatever you want to shoot at. Lower your right hand to switch aiming back to the headset for other combat functions, or keep it up if you prefer to aim things that way. Reload with (B), Ammo Quickswap eventually coming to (A).
+    NOTE- Re-center your view if the crosshair feels off! It is not 100% perfect, but should line up pretty well.
+
+
+    Movement
+    Dash - Right Grip
+    Sprint - Left Stick Click (or set to Always Sprint in settings)
+    Jump - Right Stick Up
+    Crouch/Slide - Right Stick Down **
+
 
     
 Known Issues
