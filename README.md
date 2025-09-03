@@ -61,8 +61,7 @@ Think Psi-Ops Supersoldier- you have a gun, but that's not the only thing in you
 
 - Grenades- If you're NOT carrying something, grenades are good for AOE damage, and staggering enemies so that they drop health when killed. Throw a grenade by holding Right Grip, looking at where you want your grenade to go, and then throwing or flicking the Right Controller as you release. You can throw grenades across your body or over to your right as well, as long as you can look at where you want the grenade to go. You can sidearm grenades into alleys or hookshot then over your head if that's your style.
 
-- Sword- Sometimes things get too close and a sword is your best option. You'll find your sword sheathed on your right hip, and your can grab it by moving your left hand over to it, shinobi-style. Slash the sword out to perform a melee attack- I'm especially fond of slashing out of a Dash. You can also freely carry your sword around and slash later, but note that you can't use your other attacks as long as your sword is out.
-NOTE- Re-center your view if this function doesn't feel right!
+- Sword- Sometimes things get too close and a sword is your best option. Swing your sword by performing a sharp, horizontal slash with your Left Controller.
 
 - Gun- Yes, this is a first person shooter and you have access to several different firearms, with more coming in the future. Raise your right hand to ready your gun, which will dynamically switch your aiming mode to shoot at whatever you want to shoot at. Lower your right hand to switch aiming back to the headset for other combat functions, or keep it up if you prefer to aim things that way. Reload with (B), Ammo Quickswap eventually coming to (A).
 NOTE- Re-center your view if the crosshair feels off! It is not 100% perfect, but should line up pretty well.
@@ -79,7 +78,6 @@ Movement
     
 Known Issues
 
-- The 'Melee' gesture may sometimes get hung and fire erratically - Recenter your view via your preferred methodology to correct.
 - The Main Menu appears at a 45-degree angle above your head, and the map at your feet. Tougher to fix.
 - Sometimes the touchpads seem to stick, resulting in Right Stick malfunction. Restarting the game fixes
 - Sometimes the game fails to render in the right eye on launch. Restarting the game fixes
