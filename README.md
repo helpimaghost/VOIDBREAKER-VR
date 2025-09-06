@@ -76,10 +76,10 @@ Think Psi-Ops Supersoldier- you have a gun, but that's not the only thing in you
 
 - Gun- Yes, this is a first person shooter and you have a gun. Your guns handle as follows:
 - Tapping or holding LT, or firing your weapon will switch Aim Mode to Right Controller
-- Tapping RB, Reloading, or lowering your Right Hand to your side will switch Aim Mode to back Headset
+- Tapping RB, Reloading, or lowering your Right Hand to your side will switch Aim Mode back to Headset
  - Hold LT to stabilize your shot spread, RT to Fire, Reload with (B), Ammo/Attachments with D-Pad Up and Left
 **NOTE**- Re-center your view if the crosshair feels off! It is not 100% perfect, but should line up pretty well.
-NOTE- Re-center your view if the crosshair feels off! It is not 100% perfect, but should line up pretty well.
+
 
 
 Movement
