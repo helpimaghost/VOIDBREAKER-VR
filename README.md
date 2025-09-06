@@ -74,7 +74,11 @@ Think Psi-Ops Supersoldier- you have a gun, but that's not the only thing in you
 
 - Sword- Sometimes things get too close and a sword is your best option. Swing your sword by performing a sharp, horizontal slash with your Left Controller.
 
-- Gun- Yes, this is a first person shooter and you have access to several different firearms, with more coming in the future. Raise your right hand to ready your gun, which will dynamically switch your aiming mode to shoot at whatever you want to shoot at. Lower your right hand to switch aiming back to the headset for other combat functions, or keep it up if you prefer to aim things that way. Reload with (B), Ammo Quickswap eventually coming to (A).
+- Gun- Yes, this is a first person shooter and you have a gun. Your guns handle as follows:
+- Tapping or holding LT, or firing your weapon will switch Aim Mode to Right Controller
+- Tapping RB, Reloading, or lowering your Right Hand to your side will switch Aim Mode to back Headset
+ - Hold LT to stabilize your shot spread, RT to Fire, Reload with (B), Ammo/Attachments with D-Pad Up and Left
+**NOTE**- Re-center your view if the crosshair feels off! It is not 100% perfect, but should line up pretty well.
 NOTE- Re-center your view if the crosshair feels off! It is not 100% perfect, but should line up pretty well.
 
 
