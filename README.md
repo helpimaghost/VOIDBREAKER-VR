@@ -1,9 +1,9 @@
 # VOIDBREAKER-VR
 A custom UEVR profile for VOID/BREAKER
 
-0.5 by help im a ghost
+0.9 by help im a ghost
 
-This profile intends to bring immersive and kinetic 6DOF VR support to VOID/BREAKER. Use the latest UEVR Nightly!
+This profile intends to bring immersive and kinetic 6DOF VR support to VOID/BREAKER.
 
 
 The UEVR profile adds 6DOF motion controls to VOID/BREAKER, while the lua scripts extend functionality with features like a VR-oriented control scheme, gesture-based attacks, haptics, and other fixes and improvements.
@@ -11,10 +11,6 @@ The UEVR profile adds 6DOF motion controls to VOID/BREAKER, while the lua script
 Use Windowed mode and the latest nightly UEVR build!!!
 https://github.com/praydog/UEVR-nightly
 
-
- **Set UEVR Aim Method to HMD**
-
- 
 IMPORTANT NOTE: For DLSS4 to work, after injecting & in-game, go to Settings in-game, click on "DLSS", and then re-select it from the dropdown to resolve. The game will appear much lower resolution with visual smearing otherwise!
 
 
