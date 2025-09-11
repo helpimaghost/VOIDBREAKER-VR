@@ -80,7 +80,7 @@ Think Psi-Ops Supersoldier- you have a gun, but that's not the only thing in you
  - Hold LT to stabilize your shot spread, RT to Fire, Reload with (B), Ammo/Attachments with D-Pad Up and Left
 **NOTE**- Re-center your view if the crosshair feels off! It is not 100% perfect, but should line up pretty well.
 
-
+- Ability- Hold (B) and swing the Right Controller to use your Ability
 
 Movement
 
@@ -89,14 +89,15 @@ Movement
 - Jump - Right Stick Up
 - Crouch/Slide - Right Stick Down
 
-
+(Quest) Hold Right Thumbrest and move the controller in the corresponding direction:
+- Up - Ammo Quickswap
+- Down - Mission Objective
+- Left - Weapon Attachments
+- Right - Map/Mods/Inventory
     
 Known Issues
 
-- The Main Menu appears at a 45-degree angle above your head, and the map at your feet. Tougher to fix.
-- Sometimes the touchpads seem to stick, resulting in Right Stick malfunction. Restarting the game fixes
 - Sometimes the game fails to render in the right eye on launch. Restarting the game fixes
-- Menus/Inventory are currently cumbersome to navigate
 - If there are scopes in this game, they almost certainly don't work
     
 
@@ -107,12 +108,10 @@ PLANNED FEATURES AND OVERLY AMBITIOUS WISHLIST MIXED TOGETHER
 - Better mesh and special effects attachments
 - Refine and improve gesture accuracy and responsiveness
 - Improved haptic support
-- Better controller layout and input masking that doesn't break menu navigation
 - Fix certain visual effects (wireframe effects are too thick at a distance, some shadow/reflection effects)
 - 2-handed weapon holding
 - Better crosshair attachment for Right Hand
 - Better HUD- certain widgets attached to HMD
-- Gesture-based weapon wheel
 - BHaptics/Protube support
     
 
