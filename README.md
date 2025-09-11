@@ -80,7 +80,7 @@ Think Psi-Ops Supersoldier- you have a gun, but that's not the only thing in you
  - Hold LT to stabilize your shot spread, RT to Fire, Reload with (B), Ammo/Attachments with D-Pad Up and Left
 **NOTE**- Re-center your view if the crosshair feels off! It is not 100% perfect, but should line up pretty well.
 
-- Ability- Hold (B) and swing the Right Controller to use your Ability
+- Ability- Hold (X) and swing the Right Controller to use your Ability
 
 Movement
 
