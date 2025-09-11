@@ -23,10 +23,10 @@ UEVR Profile
     
 Lua scripts with the following features:
 
-- Gesture-based combat functions for grenades, gravity tether, weapon readying, and melee attacks
-- VR-oriented, gesture-based control scheme
+- VR-oriented, gesture-based control functions for shooting, grenades, gravity tethering and throwing items, weapon readying, ammo quickswap and attachment changes, special abilities, and melee attacks
 - Haptic responses to combat actions
 - Removed camera shake while sprinting
+- fixed menu orientations to the playspace
     
     
 Installation
@@ -36,13 +36,10 @@ Installation
 2. Import the profile via your preferred methodolgy. I personally use Rai Pal for UEVR injection and profile importing profiles:
 https://raicuparta.com/rai-pal/. Note that this UEVR profile is named for the Steam version of the game, you may have to rename the .zip file for other versions!
 
-3. Launch the game, ensure that display is set to Windowed, and Continue or Start a new game.
+3. Launch the game- ensure that display is set to Windowed, and Inject UEVR
 
-4. Once the game has loaded, Inject UEVR- this will take a few seconds to complete.
+4. You may need to press RB to take control of your character. Recenter the game when in your playspace (hold right Oculus/Universal Menu button)- This is now a much more active game, standing in adequate space to swing your arms around is highly recommended!!
 
-5. Recenter the game when in your playspace (hold right Oculus/Universal Menu button)- This is now a much more active game, standing in adequate space to swing your arms around is highly recommended!!
-
-Note: If the Right Controller is not moving the crosshair, press and release Right Grip. If Right Stick movement is opening the map, try pressing different controls until it clears, or try restarting the game.
 
 
 IN-GAME SETTINGS
