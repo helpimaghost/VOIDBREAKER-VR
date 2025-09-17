@@ -24,9 +24,15 @@ UEVR Profile
 Lua scripts with the following features:
 
 - VR-oriented, gesture-based control functions for shooting, grenades, gravity tethering and throwing items, weapon readying, ammo quickswap and attachment changes, special abilities, and melee attacks
-- Haptic responses to combat actions
+- Dynamic aim system that respects player intent- no guessing or manual aim method switches, everything just works
+- Haptic responses to interaction, combat, and movement actions
+- Customizable Right-stick tuning: set deadzone, linear zone, and acceleration curve for smoother and more responsive analog turning
 - Removed camera shake while sprinting
 - fixed menu orientations to the playspace
+- fixed and stabilized inventory menu and map
+- fixed start menu angle
+- visual improvements
+- (Quest) One-handed Gesture D-Pad (hold Right thumbrest and move the controller Up, Down, Left, or Right)
     
     
 Installation
@@ -57,32 +63,24 @@ Interaction & Combat
 
 Here's how this plays- STANDING HIGHLY RECOMMENDED:
 
-Yeah, it's a first person shooter, but your aim isn't actually tied to your gun most of the time, but the headset- bear with me for a minute.
+- Gun- Fire with RT, reload by tapping (X)
 
-Think Psi-Ops Supersoldier- you have a gun, but that's not the only thing in your arsenal. You also have:
+- Gravity Tether- Move the Left Controller near your head to Grab the highlighted Throwable Object, and throw it by flinging or pushing the Left Controller. No grenades or melee while you're carrying something!
 
-- Gravity Tether- You look around your environment to find something throwable (and preferably explosive). Use your telekinetic mind powers to pick it up by swinging your left hand up near your head, and throw it by flinging     or pushing it away. No grenades or melee while you're carrying something!
+- Grenades- Throw a grenade by holding Right Grip, then throwing or flicking the Right Controller as you release. You can throw grenades across your body or over to your right as well, as long as you can look at where you want the grenade to go. You can sidearm grenades into alleys or hookshot then over your head if that's your style.
 
-- Grenades- If you're NOT carrying something, grenades are good for AOE damage, and staggering enemies so that they drop health when killed. Throw a grenade by holding Right Grip, looking at where you want your grenade to go, and then throwing or flicking the Right Controller as you release. You can throw grenades across your body or over to your right as well, as long as you can look at where you want the grenade to go. You can sidearm grenades into alleys or hookshot then over your head if that's your style.
-
-- Sword- Sometimes things get too close and a sword is your best option. Swing your sword by performing a sharp, horizontal slash with your Left Controller.
-
-- Gun- Yes, this is a first person shooter and you have a gun. Your guns handle as follows:
- - Tapping LT or firing your weapon will switch Aim Mode to Right Controller
- - Tapping RB, Reloading, or lowering your Right Hand to your side will switch Aim Mode back to Headset
- - Hold LT to stabilize your shot spread, RT to Fire, Reload with (B), Ammo/Attachments with D-Pad Up and Left
-**NOTE**- Re-center your view if the crosshair feels off! It is not 100% perfect, but should line up pretty well.
+- Sword- Swing your sword by reaching your Left Controller to your right hip to grab it, and Swing the Left Controller outward to perform an attack. You cannot perform other attacks while holding the sword.
 
 - Ability- Hold (X) and swing the Right Controller to use your Ability
 
 Movement
 
 - Dash - Left Grip
-- Sprint - Left Stick Click (or set to Always Sprint in settings)
+- Sprint - Left Stick Click (I personally recommend changing this to Always Sprint in settings)
 - Jump - Right Stick Up
 - Crouch/Slide - Right Stick Down
 
-(Quest) Hold Right Thumbrest and move the controller in the corresponding direction:
+(Quest) Hold Right Thumbrest and move the controller in the corresponding direction to perform D-Pad presses:
 - Up - Ammo Quickswap
 - Down - Mission Objective
 - Left - Weapon Attachments
@@ -90,21 +88,21 @@ Movement
     
 Known Issues
 
-- Sometimes the game fails to render in the right eye on launch. Restarting the game fixes
+- DLSS does not properly apply on launch, and needs to be selected again before it will take effect
 - If there are scopes in this game, they almost certainly don't work
-    
+- CinematicCamera stabilization needed
+- some effects do not properly render- you may wish to keep Reflections set to Low
+- in-game FOV modifiers do not work correctly
 
 
 PLANNED FEATURES AND OVERLY AMBITIOUS WISHLIST MIXED TOGETHER
 
-- Better menu, inventory, map and cursor support
+- cursor support
 - Better mesh and special effects attachments
 - Refine and improve gesture accuracy and responsiveness
 - Improved haptic support
 - Fix certain visual effects (wireframe effects are too thick at a distance, some shadow/reflection effects)
 - 2-handed weapon holding
-- Better crosshair attachment for Right Hand
-- Better HUD- certain widgets attached to HMD
 - BHaptics/Protube support
     
 
