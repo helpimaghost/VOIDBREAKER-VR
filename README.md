@@ -1,7 +1,7 @@
 # VOIDBREAKER-VR
 A custom UEVR profile for VOID/BREAKER
 
-0.9 by help im a ghost
+0.92 by help im a ghost
 
 This profile intends to bring immersive and kinetic 6DOF VR support to VOID/BREAKER.
 
