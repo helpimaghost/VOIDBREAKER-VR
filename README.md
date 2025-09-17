@@ -31,7 +31,6 @@ Lua scripts with the following features:
 - fixed menu orientations to the playspace
 - fixed and stabilized inventory menu and map
 - fixed start menu angle
-- visual improvements
 - (Quest) One-handed Gesture D-Pad (hold Right thumbrest and move the controller Up, Down, Left, or Right)
     
     
