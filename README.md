@@ -62,7 +62,7 @@ Interaction & Combat
 
 Here's how this plays- STANDING HIGHLY RECOMMENDED:
 
-- Gun- Fire with RT, reload by tapping (X)
+- Gun- Fire with RT, reload by tapping (X). Recommend holding LT for more accurate shots
 
 - Gravity Tether- Move the Left Controller near your head to Grab the highlighted Throwable Object, and throw it by flinging or pushing the Left Controller. No grenades or melee while you're carrying something!
 
